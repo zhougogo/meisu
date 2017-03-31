@@ -336,6 +336,8 @@ body{
 #page3 .countDown div {
 	width: 17.4%;
 	margin-left: 1%;
+	height: 100%;
+	
 }
 #page3 .countDown div img{
 	height: 100%;
