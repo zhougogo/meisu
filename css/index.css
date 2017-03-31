@@ -329,7 +329,7 @@ body{
 /*....第三页...*/
 
 #page3 {
-	display: none;
+
 }
 
 #page3 .countDown {
@@ -378,7 +378,8 @@ body{
 /*超时页*/
 
 #page33 {
-	/*display: none;*/
+	position:absolute;
+	top:100%;
 }
 
 #page33 .content-funnel {
@@ -438,7 +439,9 @@ body{
 /*....第四页 加油....*/
 
 #page4 {
-	display: none;
+	/*display: none;*/
+	position: absolute;
+	top: 200%;
 }
 
 
