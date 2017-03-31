@@ -328,16 +328,22 @@ body{
 	top: 56%;
 	width: 100%;
 	height: 14%;
-	display: flex;
-	display: -webkit-flex;
-	justify-content: center;
+
 }
 
 #page3 .countDown div {
 	width: 17.4%;
-	margin-left: 1%;
+	position: absolute;
 	height: 100%;
 	
+}
+#page3 .countDown .countDown1{
+	left:24%;
+	height: 100%;
+}
+#page3 .countDown .countDown2{
+	left:42%;
+	height: 100%;
 }
 #page3 .countDown div img{
 	height: 100%;
@@ -345,6 +351,9 @@ body{
 
 #page3 .countDown .countDownPic {
 	height: 30%;
+	left: 60%;
+	height: 100%;
+	
 }
 
 #page3 .reQueue {
